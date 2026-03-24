@@ -2,7 +2,7 @@
 
 I'm a final-year BSc (Hons) Software Engineering student at the University of Glasgow and a Graduate Apprentice Software Engineer with 4 years of industry experience.
 
-I build practical software that solves real problems — from backend services and developer tooling to full-stack applications and desktop software. I'm especially interested in backend engineering, cloud/platform work, DevOps, and well-designed user experiences.
+I build practical software that solves real problems - from backend services and developer tooling to full-stack applications and desktop software. I'm especially interested in backend engineering, cloud/platform work, DevOps, and well-designed user experiences.
 
 ## Featured projects
 
