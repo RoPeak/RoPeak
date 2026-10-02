@@ -1,8 +1,8 @@
 # Hi, I'm Ronan Peacock
 
-I'm a final-year Software Engineering student at the University of Glasgow and a Graduate Apprentice Software Engineer at Leidos UK, with four years of industrial experience across public-sector services, legacy modernisation, cyber operations, and autonomy-related engineering.
+I'm a Full Stack Developer at Twizzit and a software engineer with four years of previous full-time industry experience, gained alongside my degree at the University of Glasgow. I graduated in 2026 with First Class Honours in Software Engineering with Human-Computer Interaction.
 
-I build practical software that solves real problems — from backend services and developer tooling to full-stack applications and desktop software. I'm particularly interested in backend engineering, cloud/platform work, DevOps, and well-designed user experiences.
+My experience spans SaaS product development, public-sector services, legacy modernisation, cybersecurity, and maritime autonomy R&D. I build practical software that solves real problems — from backend services and developer tooling to full-stack applications and desktop software.
 
 ## What I work with
 
@@ -43,4 +43,4 @@ Chess project exploring move generation, game logic, and AI-oriented implementat
 ## Elsewhere
 
 - Portfolio: [ronan-peacock.com](https://ronan-peacock.com)
-- LinkedIn: [linkedin.com/in/ronan-peacock-556ba2331](https://www.linkedin.com/in/ronan-peacock-556ba2331/)
+- LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/ronan-peacock-556ba2331/)
